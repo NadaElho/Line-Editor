@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698921626 source:e:\iti\intro to programming\c ism44\labs\lab 7\lab 7.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
